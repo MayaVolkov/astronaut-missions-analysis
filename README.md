@@ -15,3 +15,9 @@ I have chosen to include all orbital flights between 1961 and 2026. 1961 is when
 
 ## Why does this matter?
 This matters because space is one of the last frontiers of truly wilderness and unknown, and making space technology more accessible to other nations allows for there to be more minds and global energy directed into research into space.
+
+## Tools
+Python, pandas, Google Colab
+
+## Status
+In progress. I'm rebuilding this analysis step by step and will add findings as I go.
